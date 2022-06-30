@@ -940,6 +940,7 @@ const (
 	OptPayAmount                                    quickfix.Tag = 1195
 	OptPayoutAmount                                 quickfix.Tag = 1195
 	OptPayoutType                                   quickfix.Tag = 1482
+	OrdCategory                                     quickfix.Tag = 9000
 	OrdRejReason                                    quickfix.Tag = 103
 	OrdStatus                                       quickfix.Tag = 39
 	OrdStatusReqID                                  quickfix.Tag = 790
